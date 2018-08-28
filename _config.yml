@@ -1,7 +1,7 @@
 title: Sé más que un blogger
 description:  Aprende a crear un blog.
 permalink: ':title/'
-baseurl: "/" 
+baseurl: "" 
 url: "https://el-blog-musical.github.io" 
 site-twitter: 
 
