@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: EL-BLOG-MUSICAL
+description:musica 
 permalink: ':title/'
 baseurl: "/" 
 url: "https://el-blog-musical.github.io" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: EL-BLOG-MUSICAL  
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: sobre musica rock y artistas 
 social-twitter: 
 social-facebook: 
 social-github: 
